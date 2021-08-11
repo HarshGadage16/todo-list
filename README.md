@@ -1,4 +1,4 @@
-#This is the basic app created by react to keep check of the work we are required to do all day
+# This is the basic app created by react to keep check of the work we are required to do all day
 It has add, delete, and update functionalities. 
 If we complete a task , then we can hover over it and click which will make it fade and symbolises task is done
 [You can check the demo here](https://simple-toodo-app.netlify.app/)
