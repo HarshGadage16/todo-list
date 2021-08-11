@@ -1,7 +1,7 @@
 # This is the basic todo list app created by react 
 It has add, delete, and update functionalities. 
 If we complete a task , then we can hover over it and click which will make it fade and symbolises task is done
-[You can check the demo here](https://simple-toodo-app.netlify.app/)
+ [You can check the demo here](https://simple-toodo-app.netlify.app/)
 
 
 
